@@ -1,2 +1,2 @@
 # cctoolkit
-Tools for computational chemistry calculations
+The Computational Chemistry Tookit (CCToolkit) consists of a series of tools for computational chemistry calculations writen in C/C++.
