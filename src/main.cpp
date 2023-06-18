@@ -10,5 +10,6 @@ int main() {
     atom2.set_coords(-0.295, 0.753, 0.0);
     Bond bond1(atom1, atom2);
     std::cout << bond1.get_bond_length(atom1, atom2) << std::endl;
+    std::cout << "Hello from main" << std::endl;
     return 0;
 }
