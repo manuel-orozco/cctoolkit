@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.12)
+set(CMAKE_CXX_COMPILER "C:/mingw64/bin/g++.exe")
+set(CMAKE_GENERATOR "MinGW Makefiles")
+project(cctoolkit CXX)
+add_executable(cctoolkit main.cpp)
