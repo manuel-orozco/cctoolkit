@@ -1,5 +1,5 @@
 #include <cmath>
-#include "atom.h"
+#include "../include/atom.h"
 
 
 void Atom::set_coords (double x, double y, double z) {

@@ -1,6 +1,6 @@
 #include <iostream>
-#include "atom.h"
-#include "bond.h"
+#include "../include/atom.h"
+#include "../include/bond.h"
 
 int main() {
     Atom atom1;

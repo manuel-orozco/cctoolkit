@@ -1,4 +1,4 @@
-#include "bond.h"
+#include "../include/bond.h"
 #include <cmath>
 
 Bond::Bond(Atom a1, Atom a2) {
